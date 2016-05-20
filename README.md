@@ -3,7 +3,7 @@
 
 支持异步插入图片
 
-Asynchronous image supported
+Asynchronous insert image supported
 
 
 移动设备支持
@@ -21,5 +21,5 @@ Mobile Device supported
 标签(HTML tag)：
 
 ```
-<img data-lazy-src="{original image}" src="{preload image}">
+<img data-lazy-src="{original image}" src="{preloading image}">
 ```
